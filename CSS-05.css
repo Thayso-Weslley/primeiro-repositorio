@@ -1,0 +1,35 @@
+body {
+    background: deepskyblue;
+    font: normal 18pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363)
+}
+
+section {
+    background: white;
+    border-radius: 10px;
+    width: 550px;
+    margin: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+}
+
+footer {
+    text-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+    padding: 20pt;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+select#lista {
+    width: 150pt;
+}
+
+div {
+    padding: 8px;
+}
